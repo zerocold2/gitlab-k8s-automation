@@ -1,0 +1,6 @@
+global:
+  hosts:
+    domain: {{DOMAIN_PLACEHOLDER}}
+    https: {{HTTPS_ENABLED}}
+  ingress:
+    configureCertmanager: {{CERT_MANAGER_ENABLED}}

@@ -1,0 +1,16 @@
+# Secrets
+/secrets/*
+/secrets/.keep
+
+# Logs
+/logs/*
+/logs/.keep
+
+# VS Code
+.vscode/*
+.vscode/settings.json
+.vscode/extensions.json
+
+# Kubernetes
+kubeconfig
+*.kubeconfig
