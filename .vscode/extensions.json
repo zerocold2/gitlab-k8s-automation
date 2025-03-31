@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "ms-vscode.powershell",
+    "redhat.vscode-yaml",
+    "hashicorp.terraform",
+    "gitlab.gitlab-workflow",
+    "streetsidesoftware.code-spell-checker"
+  ]
+}

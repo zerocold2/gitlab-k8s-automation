@@ -1,6 +1,15 @@
+# Inherits from variables.ps1 during deployment
 global:
   hosts:
     domain: {{DOMAIN_PLACEHOLDER}}
     https: {{HTTPS_ENABLED}}
   ingress:
     configureCertmanager: {{CERT_MANAGER_ENABLED}}
+
+gitlab:
+  webservice:
+    replicas: {{WEB_REPLICAS}}
+    resources:
+      requests:
+        cpu: {{WEB_CPU}}
+        memory: {{WEB_MEMORY}}}

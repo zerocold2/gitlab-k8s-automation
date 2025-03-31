@@ -1,16 +1,20 @@
 # Secrets
 /secrets/*
-/secrets/.keep
+!/secrets/.keep
 
 # Logs
 /logs/*
-/logs/.keep
+!/logs/.keep
 
 # VS Code
 .vscode/*
-.vscode/settings.json
-.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/extensions.json
 
 # Kubernetes
 kubeconfig
 *.kubeconfig
+
+# Temporary files
+*.tmp
+*.bak

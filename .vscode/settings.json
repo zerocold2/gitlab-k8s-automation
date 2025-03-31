@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "secrets/": true
+  },
+  "powershell.codeFormatting": {
+    "autoCorrectAliases": true,
+    "useCorrectCasing": true
+  },
+  "editor.tabSize": 2,
+  "[powershell]": {
+    "editor.defaultFormatter": "ms-vscode.powershell"
+  },
+  "files.autoSave": "afterDelay"
+}
