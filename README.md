@@ -1,5 +1,3 @@
-Here's a comprehensive **README.md** file for your GitLab-on-Kubernetes automation solution:
-
 ```markdown
 # GitLab on Kubernetes Automation 🚀
 
@@ -256,13 +254,8 @@ kubectl logs -n gitlab-system deploy/gitlab-webservice
 Get-Content .\logs\<timestamp>\*.log
 ```
 
-Here are the additional sections for your **README.md**, designed to maintain consistency with the existing format while providing essential contribution and version tracking information:
-
----
-
 ## 📜 License
 Apache 2.0 - See [LICENSE](LICENSE) for details.
-
 ---
 
 > **Note**: Always change default credentials and review SSL configuration before production use.  
