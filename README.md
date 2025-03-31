@@ -1,6 +1,6 @@
 # GitLab on Kubernetes Automation 🚀
 
-![GitLab Logo](https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png)
+<!--![GitLab Logo](https://about.gitlab.com/images/press/logo/png/gitlab-logo-500.png)-->
 *Automated deployment of GitLab on Kubernetes (Docker Desktop/WSL2)*
 
 ## 📋 Table of Contents
