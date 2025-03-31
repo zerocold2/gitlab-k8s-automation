@@ -259,5 +259,3 @@ Apache 2.0 - See [LICENSE](LICENSE) for details.
 
 > **Note**: Always change default credentials and review SSL configuration before production use.  
 > For support, open an issue in our [GitHub repository](https://github.com/zerocold2/gitlab-k8s-automation).
-
-```
